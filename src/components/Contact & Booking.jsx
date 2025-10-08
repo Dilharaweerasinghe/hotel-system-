@@ -24,7 +24,7 @@ Room Type: ${roomType}`;
     
       <div className="mb-10 text-center">
         <p> Phone: +94 773674578</p>
-        <p> Email: luxuryhe=aven@gamil.com</p>
+        <p> Email: luxuryhaven@gamil.com</p>
         <p> Address:Colombo , Sri Lanka</p>
       </div>
 
